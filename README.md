@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://github.com/MasnyFabiii/mapsonnarrative2
-- Google Sheets template https://docs.google.com/spreadsheets/d/e/2PACX-1vRPkuTx4UaH-hGfzjEzzOWSy6ESKnLD4gx_b3kivVLrZoC__FcmjI6O0gL744fM75SaTs2y_xDERRTH/pubhtml
+- Google Sheets template [https://docs.google.com/spreadsheets/d/e/2PACX-1vRPkuTx4UaH-hGfzjEzzOWSy6ESKnLD4gx_b3kivVLrZoC__FcmjI6O0gL744fM75SaTs2y_xDERRTH/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vRPkuTx4UaH-hGfzjEzzOWSy6ESKnLD4gx_b3kivVLrZoC__FcmjI6O0gL744fM75SaTs2y_xDERRTH/pubhtml)
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
